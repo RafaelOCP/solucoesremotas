@@ -1,6 +1,11 @@
 # VISUAL STUDIO CODE E GITHUB: INTEGRAÇÃO DE FERRAMENTAS NO DESENVOLVIMENTO DE SOFTWARE
 
-**Rafael Capistrano**
+**UNIC Beira Rio  
+Ciências da Computação - 8º Semestre  
+Disciplina: Desenvolvimento de Soluções Remotas  
+Docente: Felipe Douglas  
+Discente: Rafael Oliveira Capistrano Pinho  
+Cuiabá - MT**
 
 ## Resumo
 
