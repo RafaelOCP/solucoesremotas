@@ -1,7 +1,7 @@
 # 🌐 Projeto Integrador: Arquitetura e Implementação de Solução de Trabalho Remoto
 
 > **Curso:** Ciência da Computação - 8º Semestre - Noturno   
-> **Disciplina:** Desenvolvimento de Soluções Remotas
+> **Disciplina:** Desenvolvimento de Soluções Remotas  
 > **Discente:** Rafael Oliveira Capistrano Pinho  
 > **Unidade VI:** Projeto Integrador — Desenvolvimento de uma Solução Remota  
 
