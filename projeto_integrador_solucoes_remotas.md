@@ -199,7 +199,7 @@ Estimativa projetada para **120 colaboradores** (valores em Reais - BRL):
 | **Cloud & Infraestrutura (AWS/Azure)** | Instâncias VDI (45 usuários), servidores, armazenamento e tráfego | R$ 18.500,00 |
 | **Licenciamento SaaS / UCaaS** | Microsoft 365 / Google Workspace + Ramais VoIP em nuvem (120 licenças) | R$ 14.400,00 |
 | **Segurança & MDM** | Licenças de Endpoint Detection & Response (EDR), MDM e MFA | R$ 6.000,00 |
-| **Auxílio Home Office** | Ajuda de custo mensal para internet e energia ($120 \times \text{R\$ } 150,00$) | R$ 18.000,00 |
+| **Auxílio Home Office** | Ajuda de custo mensal para internet e energia | R$ 18.000,00 |
 | **Total OPEX Mensal** | | **R$ 56.900,00** |
 
 > **Análise de Retorno (ROI):** A redução de custos com aluguel de espaço físico ampliado, energia predial, limpeza e vale-transporte gera uma economia estimada de **R$ 85.000,00/mês**, tornando o projeto financeiramente superavitário já no 3º mês de operação.
